@@ -49,7 +49,7 @@ tags:
 - Fintech
 - Artificial Intelligence
 - Conversational AI
-- Financial-Services
+- Financial Services
 - Latin America
 - Agents
 - Lending
@@ -62,6 +62,7 @@ tags_raw:
 - Latin America
 - Agents
 - Lending
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
