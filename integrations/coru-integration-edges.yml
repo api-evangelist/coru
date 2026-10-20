@@ -19,3 +19,5 @@ edges:
   seller_name: Coru
   detected_by: sweep-cloud-marketplaces.py
   detected: '2026-10-19'
+source:
+- https://aws.amazon.com/marketplace/
